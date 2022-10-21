@@ -1,0 +1,16 @@
+5
+70 17
+1 3
+10 10 100
+65 15 100
+15
+5
+
+
+Number of Walls
+WinX WinY
+BarrierExists Number of Buttons (MAX 10)
+PlayerX PlayerY PlayerHealth
+MonsterX MonsterY MonsterHealth
+Monster Stupidity Factor %
+movesBeforeWall

@@ -1,0 +1,17 @@
+---My Changelog (Ethan, July 27 2:20PM)---
+Major function: An extra wall spawns every specified move (from settings file)
+	These new walls can't spawn in areas that are not EMPTY. (AKA will cause holes in wall around win area, buttons, barriers, etc.)
+	The walls can be reset to their original count by pressing the "R" tile
+	When the "R" tile is pressed, it also moves itself to a new random location on the gameboard
+
+Adjusted message in bottom to specify how the buttons and wall regen work
+Turned down # of start walls to 5 since walls begin spawning in
+Made the win position a more distinguishable colour (Purple)
+
+
+
+---Issues / Suggestions---
+Button spawned in the barrier one time - Couldn't reach it (This happened prior to me adding my code)
+Maybe decrease stupidity factor in file a tiny bit? (Say, 25%?). This will make it look slightly harder in the video demo
+Don't forget to remove all the cout's prior to demonstration
+
